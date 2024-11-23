@@ -8,12 +8,20 @@
 
 ## 📋 Index
 
-1. Defining standard objects.
+1 Research
 
+[🔗 Qwen Coder Swarm](https://github.com/kustomzone/qwen-coder-swarm)
+
+<br><br>
+
+2 Planning
+
+<br>...<br>
 
 <hr>
 
-1. Defining standard objects.
+3 Structure
+
    - crates: portable sandboxes
    - 
    - 
